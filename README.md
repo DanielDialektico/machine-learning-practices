@@ -1,4 +1,4 @@
-# Machine-Learning
+# Prácticas de Machine Learning
 En este repositorio se encuentran todas las **prácticas de machine learning** indicadas y explicadas en el curso gratuito de **dialektico.com**, al cual se puede acceder en el siguiente link:
 https://dialektico.com/cursoml/
 
