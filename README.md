@@ -9,3 +9,5 @@ Todos los códigos son de mi autoría, incluyendo los análisis, definición de 
 Cada práctica está organizada en carpetas que indican el tipo de algoritmo utilizado, donde yacen los códigos en libretas de **Google Colab**, y sus conjuntos de datos correspondientes (si aplica).
 
 Para más información, visita https://dialektico.com/
+
+![alt text](https://dialektico.com/wp-content/uploads/2022/06/Avatar-Dany.png)
