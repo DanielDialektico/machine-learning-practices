@@ -1,7 +1,7 @@
 ![alt text](https://dialektico.com/wp-content/uploads/2022/11/MiniLogoW2.jpg)
 
 # Prácticas de Machine Learning
-En este repositorio se encuentran todas las **prácticas de machine learning** indicadas y explicadas en el curso gratuito de machine learning de **dialektico.com**, al cual se puede acceder en la siguiente URL:
+En este repositorio se encuentran todas las **prácticas de machine learning** indicadas y explicadas en el curso gratuito de aprendizaje de máquinas de **dialektico.com**, al cual se puede acceder en la siguiente URL:
 https://dialektico.com/cursoml/
 
 Todos los códigos son de mi autoría, incluyendo los análisis, definición de etapas de preprocesamiento, y estructuración de modelos de aprendizaje automático, teniendo como única excepción el clasificador con redes neuronales artificiales que integra el conjunto de datos Fashion MNIST, el cual es una  adaptación y simplificación al español del código propuesto por el equipo de TensorFlow.
