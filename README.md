@@ -1,4 +1,4 @@
-![alt text](https://dialektico.com/wp-content/uploads/2022/11/MiniLogoW2.jpg)
+![alt text](https://dialektico.com/wp-content/uploads/2023/03/MiniLogoW4.png)
 
 # Prácticas de Machine Learning
 En este repositorio se encuentran todas las **prácticas de machine learning** indicadas y explicadas en el curso gratuito de aprendizaje de máquinas de **dialektico.com**, al cual se puede acceder en la siguiente URL:
