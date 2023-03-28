@@ -6,7 +6,7 @@ https://dialektico.com/cursoml/
 
 Todos los códigos son de mi autoría, incluyendo los análisis, definición de etapas de preprocesamiento, y estructuración de modelos de aprendizaje automático, así como la obtención de algunos conjuntos de datos.
 
-Cada práctica está organizada en carpetas que indican el tipo de algoritmo utilizado, donde yacen los códigos en libretas de **Google Colab**, y sus conjuntos de datos correspondientes (si aplica).
+Cada práctica está organizada en carpetas que indican el tipo de algoritmo utilizado, donde yacen los códigos en libretas de **Google Colab**.
 
 Para más información, visita https://dialektico.com/
 
